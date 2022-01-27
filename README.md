@@ -2,9 +2,10 @@
 Vectoria is a decentralized, non for profit and self funded community.
 Our mission is to reach sustainability by 2035. We have detailed how are we going to do it at Vectoria.org. There you can find Mission, Business Plan, WhitePaper. Yellow paper, Business Deck, Communications channels and How to contribute.
 Our purpose here in Github is open Vectoria platform development to community. We are looking for the brightest minds Purpose can buy.
-Please check our missión and contribute.
+Please check our missión at vectoria.org and contribute.
 
-At this very moment we are working in the transformation a real life Business Plan into an autonomous smart contract governed by a DAO. Nos easy task, but we have already started. this is the path we are following:
+At this very moment we are working in the transformation a real life Business Plan into an autonomous smart contract governed by a DAO. Not easy task, but we have already started. this is the path we are following:
+
 - standard excel business plan
 - transform excel to manage equations and relations among variables, so that we link our monetary policy to our business plan.
 - python code to import from excel and execute it with and html output.
